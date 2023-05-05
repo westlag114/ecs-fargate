@@ -13,7 +13,7 @@ import { Construct } from "constructs";
 
 // todo:
 // example.com は置き換えること
-const domainName = `example.com`;
+const domainName = `westlag-cdk-nest-application-test.com`;
 
 // VPC構築を構築しALBをパブリックサブネットに配置
 // ECS Fargate を構築しALBからのリクエストを受け付ける
